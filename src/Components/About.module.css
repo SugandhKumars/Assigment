@@ -14,5 +14,7 @@
   font-size: 16px;
   line-height: 28px;
   color: #3d3d3d;
-  border: 0.3px solid;
+}
+.details ul {
+  margin-left: 25px;
 }

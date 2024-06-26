@@ -14,6 +14,7 @@ function MainContent() {
       <About />
       <div className={styles.line2}></div>
       <Company />
+      <div className={styles.line3}></div>
     </div>
   );
 }
