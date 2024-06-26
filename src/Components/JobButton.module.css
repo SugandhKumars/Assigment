@@ -5,6 +5,7 @@
   gap: 10px;
   padding-top: 12px;
   padding-bottom: 12px;
+  white-space: nowrap;
 }
 
 .delteBtn {
