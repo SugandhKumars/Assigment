@@ -1,0 +1,123 @@
+.post {
+  width: 623px;
+  height: 98px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-top: 36px;
+  margin-left: 100px;
+  font-family: sans-serif;
+}
+.designation {
+  width: 623px;
+  height: 47px;
+  display: flex;
+  gap: 12px;
+
+  white-space: nowrap;
+}
+.postName {
+  font-size: 35px;
+  font-weight: 600;
+  line-height: 47.25px;
+  color: #3d3d3d;
+}
+.dot {
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background-color: #d1d1d1;
+  margin-top: 21.5px;
+  margin-bottom: 21.5px;
+}
+.time {
+  font-size: 14px;
+  line-height: 18.9px;
+  color: #888888;
+  margin: 14px 0px;
+}
+.button {
+  width: 57px;
+  height: 22px;
+  border: 1px solid #abefc6;
+  margin-top: 12.5px;
+  margin-bottom: 12.5px;
+  background-color: #ecfdf3;
+  padding: 2px 8px 2px 6px;
+  color: #067647;
+  border-radius: 9999px;
+  display: flex;
+  gap: 4px;
+}
+.button .text {
+  font-size: 12px;
+  line-height: 18px;
+  text-align: center;
+}
+
+.dotContainer {
+  width: 8px;
+  height: 8px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.dot2 {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: #17b26a;
+  margin: 1px;
+}
+.details {
+  width: 363px;
+  height: 27px;
+  display: flex;
+  gap: 16px;
+}
+.place {
+  width: 168px;
+  height: 27px;
+  display: flex;
+}
+.imgContainer {
+  width: 24px;
+  height: 24px;
+  margin-top: 1.5px;
+  margin-bottom: 1.5px;
+}
+.imgContainer img {
+  margin: 2px 4px;
+  width: 16px;
+  height: 20px;
+}
+.placeName {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 27px;
+  color: #5d5d5d;
+}
+.salary {
+  display: flex;
+  width: 159px;
+  height: 27px;
+  gap: 12px;
+}
+.imgContainer img {
+  width: 20px;
+  height: 18px;
+  margin: 3px 2px;
+}
+.salary p {
+  font-size: 20px;
+  line-height: 27px;
+  color: #5d5d5d;
+}
+.dot1 {
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background-color: #d1d1d1;
+  margin-top: 11.5px;
+  margin-bottom: 11.5px;
+}

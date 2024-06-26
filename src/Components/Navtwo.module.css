@@ -1,0 +1,18 @@
+.links {
+  display: flex;
+  width: 1728px;
+  height: 67px;
+  border: 1px solid #e7e7e7;
+  font-family: sans-serif;
+  margin-top: 109px;
+
+  position: relative;
+}
+.LinksContainer {
+  width: 590px;
+  height: 27px;
+
+  margin: 20px 1038px 20px 100px;
+  display: flex;
+  gap: 72px;
+}

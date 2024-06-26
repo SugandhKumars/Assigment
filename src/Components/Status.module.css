@@ -1,0 +1,37 @@
+.status {
+  width: 336px;
+  height: 42px;
+  display: flex;
+  justify-content: space-between;
+}
+.left {
+  width: 135px;
+  height: 42px;
+  padding: 10px;
+  display: flex;
+  gap: 10px;
+}
+.imgContainer {
+  width: 20px;
+  height: 20px;
+
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+.left p {
+  font-size: 16px;
+  line-height: 21.6px;
+  font-weight: 500;
+  color: #4f4f4f;
+  margin-right: 14px;
+}
+.right {
+  width: 57px;
+  height: 39px;
+  padding: 6px 10px;
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 600;
+  color: #3d3d3d;
+}

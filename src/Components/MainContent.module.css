@@ -1,0 +1,17 @@
+.MainContent {
+  width: 1728px;
+  height: 1152px;
+  position: relative;
+}
+.line {
+  width: 1319px;
+  height: 1px;
+  background-color: #e7e7e7;
+  margin-top: 32px;
+}
+.line2 {
+  width: 1320px;
+  height: 1px;
+  background-color: #e7e7e7;
+  margin-top: 32px;
+}

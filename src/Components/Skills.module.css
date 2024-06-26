@@ -1,0 +1,17 @@
+.skillContain {
+  /* width: 170px;
+  height: 115px; */
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+:global(.smallLight) {
+  font-size: 14px;
+  line-height: 18.9px;
+  font-weight: 500;
+  color: #6e6d6d;
+}
+.primary {
+  opacity: 1;
+}

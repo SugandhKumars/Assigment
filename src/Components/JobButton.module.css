@@ -1,0 +1,57 @@
+.btnContainer {
+  width: 172px;
+  height: 46px;
+  display: flex;
+  gap: 10px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.delteBtn {
+  border: 0.8px solid #dc4a2d;
+  background-color: #fef4f2;
+  border-radius: 8px;
+}
+.editBtn {
+  border: 2px solid #fef4f2;
+  background-color: #dc4a2d;
+  border-radius: 8px;
+}
+.editBtn .imgContainer {
+  width: 16px;
+  height: 16px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  margin-left: 45px;
+  padding: 1.45px 1.45px 1.67px 1.67px;
+}
+.delteBtn .imgContainer {
+  width: 20px;
+  height: 20px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  margin-left: 33.5px;
+  padding: 2.5px;
+}
+.editBtn .img {
+  height: 12.89px;
+  height: 12.89px;
+}
+.delteBtn .img {
+  height: 15px;
+  height: 15px;
+}
+.delteBtn .text {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21.6px;
+  color: #dc4a2d;
+  margin-right: 33.5px;
+}
+.editBtn .text {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21.6px;
+  color: #ffffff;
+  margin-right: 43 px;
+}

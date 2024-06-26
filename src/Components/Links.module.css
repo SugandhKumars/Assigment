@@ -1,0 +1,23 @@
+.secondary {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 27px;
+  color: #dc4a2d;
+}
+.primary {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 27px;
+  color: #888888;
+}
+.primary .bottom {
+  opacity: 0;
+}
+.bottom {
+  width: 65px;
+  height: 2px;
+  position: absolute;
+  background-color: #dc4a2d;
+  top: 64px;
+  left: 125px;
+}

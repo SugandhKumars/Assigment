@@ -1,0 +1,40 @@
+.Company {
+  width: 736px;
+  height: 271px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 32px;
+  margin-left: 100px;
+  font-family: sans-serif;
+}
+.companyContainer {
+  width: 14px;
+  height: 60px;
+  padding: 10px 10px 10px 0px;
+}
+.companyContain {
+  width: 138px;
+  height: 40px;
+  display: flex;
+  gap: 12px;
+}
+.logo {
+  width: 40px;
+  height: 40px;
+}
+.name {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 27px;
+  color: #4f4f4f;
+  margin: 6.5px 0px;
+}
+.companyDetails {
+  width: 736px;
+  height: 195px;
+  display: flex;
+  gap: 24px 48px;
+  flex-wrap: wrap;
+  white-space: no-wrap;
+}

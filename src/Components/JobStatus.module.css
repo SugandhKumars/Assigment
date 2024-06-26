@@ -1,0 +1,13 @@
+.JobStatus {
+  width: 360px;
+  height: 291px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.line {
+  width: 336px;
+  height: 1px;
+  background-color: #e7e7e7;
+}

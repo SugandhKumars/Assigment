@@ -1,0 +1,27 @@
+.skill {
+  height: 24px;
+  display: flex;
+  gap: 3px;
+  border: 1px solid #d0d5dd;
+  border-radius: 6px;
+  padding: 4px 6px;
+  background-color: #ffffff;
+}
+.skillContain {
+  height: 16px;
+  display: flex;
+  gap: 4px;
+
+  white-space: nowrap;
+}
+.skillContain img {
+  height: 16px;
+}
+.name {
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 16.2px;
+  text-align: center;
+  word-wrap: none;
+  color: #344054;
+}
